@@ -2,5 +2,5 @@
  layout : judul slide
  : " Selamat datang di slide kedua kami! "
 ---
-Teks Anda 
+Saya Hilman
 Gunakan panah kiri untuk kembali!
